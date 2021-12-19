@@ -4,7 +4,7 @@ Course plan for the Haskell Beginners 2022 course.
 
 * [Course announcement](https://kodimensional.dev/course)
 
-## Lecture 1: Fundamentals
+## 🏡 Lecture 1: Fundamentals
 
 * What is Functional Programming?
 * Haskell features
@@ -36,7 +36,7 @@ Course plan for the Haskell Beginners 2022 course.
 
 Slides: https://slides.com/haskellbeginners2022/lecture-1
 
-## Lecture 2: Data types
+## 🏗 Lecture 2: Data types
 
 * Type aliases
 * Product types
@@ -51,7 +51,7 @@ Slides: https://slides.com/haskellbeginners2022/lecture-1
 
 Slides: https://slides.com/haskellbeginners2022/lecture-2
 
-## Lecture 3: Typeclasses
+## 🎮 Lecture 3: Typeclasses
 
 * Typeclasses
 * Instances
@@ -65,7 +65,7 @@ Slides: https://slides.com/haskellbeginners2022/lecture-2
 
 Slides: https://slides.com/haskellbeginners2022/lecture-3
 
-## Lecture 4: Monads and IO
+## 🔈🎤 Lecture 4: Monads and IO
 
 * Monad typeclass
 * Monad instances
