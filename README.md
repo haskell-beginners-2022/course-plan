@@ -31,23 +31,26 @@ Course plan for the Haskell Beginners 2022 course.
   * let-in
   * where
 * Higher-Order Functions
-* Function composition
+* Currying and partial application
 * Language Extensions
+* modules, imports
 
 Slides: https://slides.com/haskellbeginners2022/lecture-1
 
 ## 🏗 Lecture 2: Data types
 
+* Pattern-matching
+  * case-of 
 * Type aliases
 * Product types
 * Records
 * Sum types
-* Algebraic Data Types
-* Pattern-matching
-* Totality
-* Polymorphic data types
 * newtypes
-* modules, imports
+* Algebraic Data Types
+* Totality
+* Polymorphism
+* Function composition: dot operator (.)
+* Function application: dollar operator ($)
 
 Slides: https://slides.com/haskellbeginners2022/lecture-2
 
