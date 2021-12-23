@@ -7,6 +7,7 @@ Course plan for the Haskell Beginners 2022 course.
 ## 🏡 Lecture 1: Fundamentals
 
 * What is Functional Programming?
+* FP concepts
 * Haskell features
 * Haskell toolchain: GHC, GHCi, ghcup, cabal, hls
 * How to install Haskell?
@@ -16,31 +17,36 @@ Course plan for the Haskell Beginners 2022 course.
   * Boolean expressions
   * Calling functions
 * Types
-* Defining our own functions
-* Defining our own operators
+  * `:t` command in GHCi
+  * Types of booleans, numbers and functions
 * Lists and operations with them
   * Prepending, concatenation
+  * Standard list functions
   * Ranges
-  * take, drop, concat
-  * String
-* Immutability
 * Laziness
+* String
 * Syntax constructions
+  * Defining our own functions
+  * packages, modules, imports
   * if-then-else
   * guards
   * let-in
   * where
-* Higher-Order Functions
-* Currying and partial application
-* Language Extensions
-* modules, imports
+* Immutability
+* Recursion
+* Higher-Order Functions (HOF)
+  * Functions as first-class values
+  * Lambda functions
+  * Partial application
+  * `map`, `filter`, etc.
 
 Slides: https://slides.com/haskellbeginners2022/lecture-1
 
 ## 🏗 Lecture 2: Data types
 
+* Tuples
 * Pattern-matching
-  * case-of 
+  * case-of
 * Type aliases
 * Product types
 * Records
@@ -58,6 +64,7 @@ Slides: https://slides.com/haskellbeginners2022/lecture-2
 
 * Typeclasses
 * Instances
+* Language Extensions
 * InstanceSigs
 * Default methods
 * Standard typeclasses
