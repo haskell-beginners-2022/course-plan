@@ -44,19 +44,35 @@ Slides: https://slides.com/haskellbeginners2022/lecture-1
 
 ## 🏗 Lecture 2: Data types
 
-* Tuples
+
 * Pattern-matching
-  * case-of
-* Type aliases
-* Product types
-* Records
-* Sum types
-* newtypes
-* Algebraic Data Types
+  * Top level
+  * `case-of`
+  * List patterns
+  * Recursion and pattern matching
+  * Pattern matching pitfalls
 * Totality
+* Tuples
+* Algebraic Data Types
+  * Product types
+  * Sum types
+* Data types in Haskell
+  * `data`
+  * Simple product types
+  * Records
+  * Enumerations
+  * Simple sum types
+  * Recursive data types
+  * `type`
+  * `newtype`
 * Polymorphism
+  * Parametric polymorphism
+  * Types of standard functions
+  * Hoogle
+  * Polymorphic data types
+  * Standard polymorphic data types
+* Eta-reduction 
 * Function composition: dot operator (.)
-* Function application: dollar operator ($)
 
 Slides: https://slides.com/haskellbeginners2022/lecture-2
 
