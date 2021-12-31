@@ -4,6 +4,10 @@ Course plan for the Haskell Beginners 2022 course.
 
 * [Course announcement](https://kodimensional.dev/course)
 
+Exercises and installation instructions can be found in the `exercises` repository:
+
+* [haskell-beginners-2022/exercises](https://github.com/haskell-beginners-2022/exercises)
+
 ## 🏡 Lecture 1: Fundamentals
 
 * What is Functional Programming?
