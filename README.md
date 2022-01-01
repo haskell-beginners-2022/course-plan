@@ -82,16 +82,28 @@ Slides: https://slides.com/haskellbeginners2022/lecture-2
 
 ## 🎮 Lecture 3: Typeclasses
 
+* Parametric polymorphism vs Ad-hoc polymorphism
 * Typeclasses
-* Instances
+  * `class` 
+  * `instance`
+  * Default methods
+  * `{-# MINIMAL #-}`
 * Language Extensions
-* InstanceSigs
-* Default methods
+  * `{-# LANGUAGE #-}` 
+  * `InstanceSigs` 
 * Standard typeclasses
-* deriving
+  * Eq
+  * Ord
+* `deriving`
+  * Stock derivable typeclasses
+  * `GeneralizedNewtypeDeriving` 
+* Semigroup
+* Monoid
 * Kinds
-* Higher-Kinded Typeclasses
+* Higher-Kinded Types
 * Functor
+* `foldr` and `foldl'`
+* Foldable
 
 Slides: https://slides.com/haskellbeginners2022/lecture-3
 
