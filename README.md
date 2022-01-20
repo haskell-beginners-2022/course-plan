@@ -44,10 +44,10 @@ Exercises and installation instructions can be found in the `exercises` reposito
   * Partial application
   * `map`, `filter`, etc.
 
-Slides: https://slides.com/haskellbeginners2022/lecture-1
+🎞 Slides: https://slides.com/haskellbeginners2022/lecture-1
+📽 Video: [Haskell Beginners 2022: Lecture 1](https://www.youtube.com/watch?v=6MsQcUprO9o)
 
 ## 🏗 Lecture 2: Data types
-
 
 * Pattern-matching
   * Top level
@@ -78,7 +78,8 @@ Slides: https://slides.com/haskellbeginners2022/lecture-1
 * Eta-reduction 
 * Function composition: dot operator (.)
 
-Slides: https://slides.com/haskellbeginners2022/lecture-2
+🎞 Slides: https://slides.com/haskellbeginners2022/lecture-2
+📽 Video: [Haskell Beginners 2022: Lecture 1](https://www.youtube.com/watch?v=rf-lie7U04Q)
 
 ## 🎮 Lecture 3: Typeclasses
 
@@ -105,7 +106,7 @@ Slides: https://slides.com/haskellbeginners2022/lecture-2
 * `foldr` and `foldl'`
 * Foldable
 
-Slides: https://slides.com/haskellbeginners2022/lecture-3
+🎞 Slides: https://slides.com/haskellbeginners2022/lecture-3
 
 ## 🔈🎤 Lecture 4: Monads and IO
 
@@ -118,4 +119,4 @@ Slides: https://slides.com/haskellbeginners2022/lecture-3
 * do-notation
 * Separting side-effects from pure functions
 
-Slides: https://slides.com/haskellbeginners2022/lecture-4
+🎞 Slides: https://slides.com/haskellbeginners2022/lecture-4
