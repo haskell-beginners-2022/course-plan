@@ -45,6 +45,7 @@ Exercises and installation instructions can be found in the `exercises` reposito
   * `map`, `filter`, etc.
 
 🎞 Slides: https://slides.com/haskellbeginners2022/lecture-1
+
 📽 Video: [Haskell Beginners 2022: Lecture 1](https://www.youtube.com/watch?v=6MsQcUprO9o)
 
 ## 🏗 Lecture 2: Data types
@@ -79,6 +80,7 @@ Exercises and installation instructions can be found in the `exercises` reposito
 * Function composition: dot operator (.)
 
 🎞 Slides: https://slides.com/haskellbeginners2022/lecture-2
+
 📽 Video: [Haskell Beginners 2022: Lecture 1](https://www.youtube.com/watch?v=rf-lie7U04Q)
 
 ## 🎮 Lecture 3: Typeclasses
