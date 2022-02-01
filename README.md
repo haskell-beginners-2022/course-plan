@@ -4,7 +4,7 @@ Course plan for the Haskell Beginners 2022 course.
 
 * [Course announcement](https://kodimensional.dev/course)
 
-Exercises and installation instructions can be found in the `exercises` repository:
+Exercises and Haskell installation instructions can be found in the `exercises` repository:
 
 * [haskell-beginners-2022/exercises](https://github.com/haskell-beginners-2022/exercises)
 
@@ -32,10 +32,10 @@ Exercises and installation instructions can be found in the `exercises` reposito
 * Syntax constructions
   * Defining our own functions
   * packages, modules, imports
-  * if-then-else
+  * `if-then-else`
   * guards
-  * let-in
-  * where
+  * `let-in`
+  * `where`
 * Immutability
 * Recursion
 * Higher-Order Functions (HOF)
@@ -77,7 +77,7 @@ Exercises and installation instructions can be found in the `exercises` reposito
   * Polymorphic data types
   * Standard polymorphic data types
 * Eta-reduction 
-* Function composition: dot operator (.)
+* Function composition: dot operator `(.)`
 
 🎞 Slides: https://slides.com/haskellbeginners2022/lecture-2
 
@@ -91,34 +91,65 @@ Exercises and installation instructions can be found in the `exercises` reposito
   * `instance`
   * Default methods
   * `{-# MINIMAL #-}`
+  * Small typeclasses vs Big typeclasses
 * Language Extensions
-  * `{-# LANGUAGE #-}` 
-  * `InstanceSigs` 
+  * `{-# LANGUAGE InstanceSigs #-}` 
 * Standard typeclasses
-  * Eq
-  * Ord
+  * `Eq`
+  * Haskell Equality Table
+  * `Ord`
+  * `Num`
 * `deriving`
   * Stock derivable typeclasses
-  * `GeneralizedNewtypeDeriving` 
-* Semigroup
-* Monoid
+  * `{-# LANGUAGE GeneralizedNewtypeDeriving #-}`
+* Algebraic typeclasses
+  * `Semigroup`
+  * `Monoid`
+  * Laws
 * Kinds
-* Higher-Kinded Types
-* Functor
-* `foldr` and `foldl'`
-* Foldable
+* `Functor`
+* Folds
+  * `foldr`
+  * `foldl`
+  * `foldl'`
+  * `foldr` vs `foldl'`
+  * `Foldable`
+* Strict and Lazy evaluation
+  * Lazy evaluation
+  * Tail Call Optimization (TCO)
+  * Equational reasoning
+  * `{-# LANGUAGE BangPatterns #-}` 
 
 🎞 Slides: https://slides.com/haskellbeginners2022/lecture-3
 
+📽 Video: [Haskell Beginners 2022: Lecture 3](https://www.youtube.com/watch?v=Vs-vvlYLtRI)
+
 ## 🔈🎤 Lecture 4: Monads and IO
 
-* Monad typeclass
-* Monad instances
-* General monadic functions
-* What is IO?
-* Why does IO require a monad?
-* Simple IO functions (putStrLn, getLine, readFile, writeFile)
-* do-notation
-* Separting side-effects from pure functions
+* Monad example
+  * `andThen` for `Maybe`, `Either` and list
+* Monad as programming pattern
+* `Monad`
+  * The typeclass
+  * Instances
+  * Laws
+  * Usage example 
+* **FAM**ily: `Functor`, `Applicative`, `Monad`
+* Purity
+* Why Purity + Laziness is a problem for sie effects?
+* `IO`
+  * Why does IO require a monad?
+  * `String` vs `IO String`
+  * `getLine`
+  * `putStrLn`
+  * `Main` and `main`
+* _Then_ operator: `>>`
+* `do`-notation
+* Cabal
+  * Packages
+  * `build-depends` 
+* Functional Core, Imperative Shell
 
 🎞 Slides: https://slides.com/haskellbeginners2022/lecture-4
+
+📽 Video: [Haskell Beginners 2022: Lecture 4](https://www.youtube.com/watch?v=12D4Y2Hdnhg)
