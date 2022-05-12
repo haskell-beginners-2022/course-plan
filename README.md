@@ -81,7 +81,7 @@ Exercises and Haskell installation instructions can be found in the `exercises` 
 
 🎞 Slides: https://slides.com/haskellbeginners2022/lecture-2
 
-📽 Video: [Haskell Beginners 2022: Lecture 1](https://www.youtube.com/watch?v=rf-lie7U04Q)
+📽 Video: [Haskell Beginners 2022: Lecture 2](https://www.youtube.com/watch?v=rf-lie7U04Q)
 
 ## 🎮 Lecture 3: Typeclasses
 
