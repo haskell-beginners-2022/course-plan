@@ -1,12 +1,36 @@
 # course-plan
 
-Course plan for the Haskell Beginners 2022 course.
+<p align="center">
+  <img width="256" height="256" src="https://raw.githubusercontent.com/haskell-beginners-2022/exercises/main/logo.png">
+</p>
 
-* [Course announcement](https://kodimensional.dev/course)
+Haskell and Functional Programming course for complete beginners.
 
-Exercises and Haskell installation instructions can be found in the `exercises` repository:
+> 👩‍🏫 The course was created in 2022 but it's still active and
+> constantly improving.
 
-* [haskell-beginners-2022/exercises](https://github.com/haskell-beginners-2022/exercises)
+Course learning materials comprises:
+
+* [🎥 Four 1-hour lectures on YouTube][video]
+* [🖼 Slides][slides]
+* [🧩 Practical exercises and Haskell intallation instructions][exercises]
+
+[video]: https://www.youtube.com/watch?v=6MsQcUprO9o&list=PLOJjn67NeYg9cWA4hyIWcxfaeX64pwo1c&ab_channel=chshersh
+[slides]: https://slides.com/haskellbeginners2022
+[exercises]: https://github.com/haskell-beginners-2022/exercises
+
+The course is entirely free and includes one particularly interesting feature:
+
++ 🆙 **Review of your solutions to exercises!**
+
+You can solve exercises, and I'm (Dmitrii Kovanikov) going to provide
+review to your solutions, suggesting improvements and alternative ways
+to solve tasks using idiomatic FP.
+
+<hr>
+
+Below you can find the plan of each individual lecture with the
+corresponding links to learning materials.
 
 ## 🏡 Lecture 1: Fundamentals
 
@@ -76,7 +100,7 @@ Exercises and Haskell installation instructions can be found in the `exercises` 
   * Hoogle
   * Polymorphic data types
   * Standard polymorphic data types
-* Eta-reduction 
+* Eta-reduction
 * Function composition: dot operator `(.)`
 
 🎞 Slides: https://slides.com/haskellbeginners2022/lecture-2
@@ -87,13 +111,13 @@ Exercises and Haskell installation instructions can be found in the `exercises` 
 
 * Parametric polymorphism vs Ad-hoc polymorphism
 * Typeclasses
-  * `class` 
+  * `class`
   * `instance`
   * Default methods
   * `{-# MINIMAL #-}`
   * Small typeclasses vs Big typeclasses
 * Language Extensions
-  * `{-# LANGUAGE InstanceSigs #-}` 
+  * `{-# LANGUAGE InstanceSigs #-}`
 * Standard typeclasses
   * `Eq`
   * Haskell Equality Table
@@ -118,7 +142,7 @@ Exercises and Haskell installation instructions can be found in the `exercises` 
   * Lazy evaluation
   * Tail Call Optimization (TCO)
   * Equational reasoning
-  * `{-# LANGUAGE BangPatterns #-}` 
+  * `{-# LANGUAGE BangPatterns #-}`
 
 🎞 Slides: https://slides.com/haskellbeginners2022/lecture-3
 
@@ -133,7 +157,7 @@ Exercises and Haskell installation instructions can be found in the `exercises` 
   * The typeclass
   * Instances
   * Laws
-  * Usage example 
+  * Usage example
 * **FAM**ily: `Functor`, `Applicative`, `Monad`
 * Purity
 * Why Purity + Laziness is a problem for sie effects?
@@ -147,9 +171,36 @@ Exercises and Haskell installation instructions can be found in the `exercises` 
 * `do`-notation
 * Cabal
   * Packages
-  * `build-depends` 
+  * `build-depends`
 * Functional Core, Imperative Shell
 
 🎞 Slides: https://slides.com/haskellbeginners2022/lecture-4
 
 📽 Video: [Haskell Beginners 2022: Lecture 4](https://www.youtube.com/watch?v=12D4Y2Hdnhg)
+
+## What's next?
+
+After you've finished the course, you may be interested in the
+following resources to continue your FP and Haskell journey:
+
+* [Haskell Knowledge Map](https://kowainik.github.io/images/Haskell_Knowledge_Map.png):
+  To discover new topics for studying and find your unique learning path 🗺
+* [Learn Haskell by building a blog generator](https://lhbg-book.link/):
+  A project-based course that teaches pragmatic Haskell by building a
+  blog generator from scratch.
+* [Haskell in Depth](https://www.manning.com/books/haskell-in-depth):
+  A book about intermediate Haskell topics such as Monad Transformers,
+  metaprogramming, testing, logging and performance analysis.
+* [Functional Design and Architecture ](https://www.manning.com/books/functional-design-and-architecture):
+  Design patterns and architectures for building production quality
+  applications using functional programming, with examples in Haskell
+  and other FP languages.
+* [Haskell Study Plan](https://github.com/soupi/haskell-study-plan):
+  More links on different topics and examples to real-world Haskell
+  projects.
+
+## History
+
+Below is the link to the original course announcement:
+
+* [Course announcement](https://kodimensional.dev/course)
