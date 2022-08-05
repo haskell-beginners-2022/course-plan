@@ -1,7 +1,7 @@
 # course-plan
 
 <p align="center">
-  <img width="256" height="256" src="https://raw.githubusercontent.com/haskell-beginners-2022/exercises/main/logo.png">
+  <img width="256" height="256" src="https://raw.githubusercontent.com/haskell-beginners-2022/course-plan/main/logo.png">
 </p>
 
 Haskell and Functional Programming course for complete beginners.
