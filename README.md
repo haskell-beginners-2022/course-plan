@@ -19,9 +19,10 @@ Course learning materials comprises:
 [slides]: https://slides.com/haskellbeginners2022
 [exercises]: https://github.com/haskell-beginners-2022/exercises
 
-The course is entirely free and includes one particularly interesting feature:
+The course is entirely free and includes two particularly interesting features:
 
 + 🆙 **Review of your solutions to exercises!**
++ 📜 **A certificate after successful completion!**
 
 You can solve exercises, and I'm (Dmitrii Kovanikov) going to provide
 review to your solutions, suggesting improvements and alternative ways
