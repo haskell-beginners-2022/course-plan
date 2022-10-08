@@ -13,7 +13,7 @@ Course learning materials comprises:
 
 * [🎥 Four 1-hour lectures on YouTube][video]
 * [🖼 Slides][slides]
-* [🧩 Practical exercises and Haskell intallation instructions][exercises]
+* [🧩 Practical exercises and Haskell installation instructions][exercises]
 
 [video]: https://www.youtube.com/watch?v=6MsQcUprO9o&list=PLOJjn67NeYg9cWA4hyIWcxfaeX64pwo1c&ab_channel=chshersh
 [slides]: https://slides.com/haskellbeginners2022
@@ -161,7 +161,7 @@ corresponding links to learning materials.
   * Usage example
 * **FAM**ily: `Functor`, `Applicative`, `Monad`
 * Purity
-* Why Purity + Laziness is a problem for sie effects?
+* Why Purity + Laziness is a problem for side effects?
 * `IO`
   * Why does IO require a monad?
   * `String` vs `IO String`
