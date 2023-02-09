@@ -184,8 +184,6 @@ corresponding links to learning materials.
 After you've finished the course, you may be interested in the
 following resources to continue your FP and Haskell journey:
 
-* [Haskell Knowledge Map](https://kowainik.github.io/images/Haskell_Knowledge_Map.png):
-  To discover new topics for studying and find your unique learning path 🗺
 * [Learn Haskell by building a blog generator](https://lhbg-book.link/):
   A project-based course that teaches pragmatic Haskell by building a
   blog generator from scratch.
@@ -199,6 +197,8 @@ following resources to continue your FP and Haskell journey:
 * [Haskell Study Plan](https://github.com/soupi/haskell-study-plan):
   More links on different topics and examples to real-world Haskell
   projects.
+* [Awesome List of Haskell mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors):
+  A list of Haskell projects and mentors willing to help you master Haskell.
 
 ## History
 
