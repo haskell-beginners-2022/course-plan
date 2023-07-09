@@ -6,10 +6,11 @@
 
 Haskell and Functional Programming course for complete beginners.
 
-> 👩‍🏫 The course was created in 2022 but it's still active and
-> constantly improving.
+> :warning: The course authors no longer provide reviews of the solutions.
+> However, all the learning materials are free and publicly available.
+> You can learn Haskell on your own or with the help of others.
 
-Course learning materials comprises:
+Course learning materials comprise:
 
 * [🎥 Four 1-hour lectures on YouTube][video]
 * [🖼 Slides][slides]
@@ -19,18 +20,11 @@ Course learning materials comprises:
 [slides]: https://slides.com/haskellbeginners2022
 [exercises]: https://github.com/haskell-beginners-2022/exercises
 
-The course is entirely free and includes two particularly interesting features:
-
-+ 🆙 **Review of your solutions to exercises!**
-+ 📜 **A certificate after successful completion!**
-
-You can solve exercises, and I'm (Dmitrii Kovanikov) going to provide
-review to your solutions, suggesting improvements and alternative ways
-to solve tasks using idiomatic FP.
+The course is entirely free!
 
 <hr>
 
-Below you can find the plan of each individual lecture with the
+Below you can find the plan for each individual lecture with the
 corresponding links to learning materials.
 
 ## 🏡 Lecture 1: Fundamentals
@@ -47,7 +41,7 @@ corresponding links to learning materials.
   * Calling functions
 * Types
   * `:t` command in GHCi
-  * Types of booleans, numbers and functions
+  * Types of booleans, numbers, and functions
 * Lists and operations with them
   * Prepending, concatenation
   * Standard list functions
@@ -80,7 +74,7 @@ corresponding links to learning materials.
   * `case-of`
   * List patterns
   * Recursion and pattern matching
-  * Pattern matching pitfalls
+  * Pattern-matching pitfalls
 * Totality
 * Tuples
 * Algebraic Data Types
@@ -189,19 +183,13 @@ following resources to continue your FP and Haskell journey:
   blog generator from scratch.
 * [Haskell in Depth](https://www.manning.com/books/haskell-in-depth):
   A book about intermediate Haskell topics such as Monad Transformers,
-  metaprogramming, testing, logging and performance analysis.
+  metaprogramming, testing, logging, and performance analysis.
 * [Functional Design and Architecture ](https://www.manning.com/books/functional-design-and-architecture):
   Design patterns and architectures for building production quality
   applications using functional programming, with examples in Haskell
   and other FP languages.
 * [Haskell Study Plan](https://github.com/soupi/haskell-study-plan):
-  More links on different topics and examples to real-world Haskell
+  More links on different topics and examples of real-world Haskell
   projects.
 * [Awesome List of Haskell mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors):
   A list of Haskell projects and mentors willing to help you master Haskell.
-
-## History
-
-Below is the link to the original course announcement:
-
-* [Course announcement](https://kodimensional.dev/course)
